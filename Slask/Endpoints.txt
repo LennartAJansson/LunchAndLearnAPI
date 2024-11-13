@@ -1,4 +1,0 @@
-FastEndpoints:
-REPR (Request-Endpoints-Response)
-Coherent
-Vertical slice
