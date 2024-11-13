@@ -1,0 +1,10 @@
+@MinimalApi_HostAddress = https://localhost:7282
+
+GET {{MinimalApi_HostAddress}}/getobservations/
+Accept: application/json
+
+###
+GET {{MinimalApi_HostAddress}}/getexistingmeasureddates/
+Accept: application/json
+
+###

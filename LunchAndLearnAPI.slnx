@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="ControllerApi\ControllerApi.csproj" />
+  <Project Path="DownloadClient\DownloadClient.csproj" />
+  <Project Path="FastEndpointApi\FastEndpointApi.csproj" />
+  <Project Path="MinimalApi\MinimalApi.csproj" />
+  <Project Path="WeatherObservations.Data\WeatherObservations.Data.csproj" />
+  <Project Path="WeatherObservations.Domain.Abstract\WeatherObservations.Domain.Abstract.csproj" />
+  <Project Path="WeatherObservations.Telemetry\WeatherObservations.Telemetry.csproj" />
+  <Properties Name="Visual Studio">
+    <Property Name="OpenWith" Value="17" />
+  </Properties>
+</Solution>
